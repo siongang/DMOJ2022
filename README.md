@@ -1,0 +1,2 @@
+# DMOJ2022
+- DMOJ 2022 code!
